@@ -1,4 +1,4 @@
-package com.example.products.security.config;
+package com.example.products.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

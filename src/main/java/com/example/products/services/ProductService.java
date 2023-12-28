@@ -36,5 +36,6 @@ public class ProductService {
                         productRepository.save(productMapper.toEntity(product));
                     });
         }
+        //Не зрозумів, як виконати динамічне створення таблиць БД саме за допомогою JPA, не створюючи нові таблиці власноруч
     }
 }
